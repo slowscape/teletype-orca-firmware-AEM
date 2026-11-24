@@ -1,0 +1,29 @@
+# build output
+*.o
+*.d
+*.elf
+*.lss
+*.map
+*.sym
+*.bin
+module/orca.hex
+module/avr32/
+module/common/
+
+# local tools and module backups
+tools/
+backup/
+
+# local reference material (orca-c source zip) and Python caches
+REFERENCE/
+__pycache__/
+
+# local planning notes, old scripts and unrelated files (kept on disk, not in the repo)
+todo.md
+bugs.md
+aem.md
+differences.md
+ae-vs-eurorack-teletype.md
+flash.sh
+reports/
+research_notes/
