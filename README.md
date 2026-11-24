@@ -2,7 +2,8 @@
 
 This was originally a port of [Orca-c](https://github.com/hundredrabbits/Orca-c) to the monome Teletype hardware (AT32UC3B0512) by [Zsa Zsa Roboto (Original Release Video)](https://www.youtube.com/watch?v=OAY_YaDVTds). 
 
-In addition to patching a few bugs and adding some features (like CV In operator &, MPC style Swing, and Scales), I have tuned it for the AE Modular Telex clone of Teletype. See [manual.md](manual.md) for operating the module.
+In addition to patching a few bugs and adding some features (like CV-in operator "&", MPC style Swing, and Scales), I have tuned it for the AE Modular Telex clone of Teletype. 
+See [manual.md](manual.md) for operating the module.
 
 ## Layout
 
